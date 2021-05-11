@@ -1,0 +1,2 @@
+Prefix plugins/Observed/example
+Plugin Observed inputfile parameters.txt outputfile observed
